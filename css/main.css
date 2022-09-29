@@ -1,0 +1,28 @@
+body{
+	background-color: darkgrey;
+}
+
+h1{
+	text-align: center;
+}
+
+ul{
+	list-style-type: none;
+	padding-left: 10px;
+	margin-top: 10px;
+	margin-right: 225px;
+}
+
+.help{
+	float: left;
+}
+
+.points{
+	float: right;
+}
+.container{
+	margin-bottom: 50px;
+}
+footer{
+	border-top: 1px solid gray;
+}
